@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/108392662/191526087-cba57ac9-9ae0-4a22
 
 ![screenshort](https://user-images.githubusercontent.com/108392662/191540826-ba46bc05-aada-4074-a05b-315e82c44163.jpg)
 
-<img src="[screenshort](https://user-images.githubusercontent.com/108392662/191540826-ba46bc05-aada-4074-a05b-315e82c44163.jpg)"  width="600" height="300">
+<img src="https://user-images.githubusercontent.com/108392662/191540826-ba46bc05-aada-4074-a05b-315e82c44163.jpg"  width="300" height="600">
 
 
 
