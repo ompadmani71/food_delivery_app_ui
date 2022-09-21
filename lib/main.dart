@@ -21,7 +21,6 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   // final UserController _userController = Get.put(UserController());
-
   final HomeController _homeController = Get.put(HomeController());
 
   @override
@@ -35,7 +34,7 @@ class _MyAppState extends State<MyApp> {
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primaryColor: AppColors.yellow,
-              primarySwatch: materialPurpleColor,
+              primarySwatch: materialYellowColor,
               fontFamily: "OpenSans",
             ),
             home: child,
@@ -45,7 +44,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 
-  MaterialColor materialPurpleColor = MaterialColor(
+  MaterialColor materialYellowColor = MaterialColor(
     AppColors.yellow.value,
     <int, Color>{
       50: AppColors.yellow,
